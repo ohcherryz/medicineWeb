@@ -1,8 +1,8 @@
-# medicineWeb
+# Landing page for a clinic website
 
 This is my design of website for a clinic.
 
-Link in Figma: 
+Link to Figma: 
 
 https://www.figma.com/file/RhkVoesfnGEc3zt7izegLE/Untitled?node-id=6%3A27&t=bkbZMjZOe79pmSlX-1
 
